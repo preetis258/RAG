@@ -1,0 +1,5 @@
+.env
+test.ipynb
+*.bin
+__pycache__/
+venv/

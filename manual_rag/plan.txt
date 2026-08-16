@@ -1,0 +1,41 @@
+FLOW:
+
+    document
+
+    loader - 
+
+    chunking - 
+
+    embeddings - 
+
+    vector DB - 
+
+    query - 
+
+    query embeddings
+
+    cosine similarity
+
+    extract top 5
+
+    prompt generation with context
+
+    LLM call
+
+
+
+STRUCTURE:
+
+    data/
+        pdf fil
+    
+    indexing/
+        loader
+        chunking
+        embeddings
+        vector DB
+    
+    retreival/
+        query cosine similarity with docs
+        prompt generation
+        LLM call
